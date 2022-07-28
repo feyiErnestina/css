@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Montserrat:wght@100;400&family=Poppins:wght@100&display=swap');
+
+h1{
+    border-top-style:dotted;
+    border-right-style: groove;
+    border-left-style:dashed;
+    border-bottom-style:double;
+    border-width: 1pv 4px 6px 8px;
+    border-color: crimson;
+    border: radius 40px; ;
+    margin: 50px;
+    padding-top: 30px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+    padding-left: 60px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 5px;
+    text-shadow: 3px 2px burlywood ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+
+}
+
+p{
+    border: 5px double brown;
+    margin-top: 20px;
+    margin-right: 30px;
+    margin-bottom: 40px;
+    margin-left: 50px;
+    padding: 40px 50px 60px 70px;
+    outline-style: dashed;
+    text-transform:lowercase;
+    letter-spacing: 5px;
+    line-height: 5;
+    font-family: 'Dancing Script', cursive;
+
+
+
+}
+div{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+}
+ol{
+    display: block;
+}

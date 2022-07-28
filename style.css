@@ -1,0 +1,39 @@
+/* colors*/
+/*
+color
+hex
+rgb
+rgba
+*/
+
+/*color name*/
+h1{
+    background-color: brown;
+}
+p{
+    color: aqua;
+}
+
+/*hex color*/
+h1{
+    background-color:#FFFFFF;
+}
+p{
+    color:#0000FF;
+}
+
+/*rgb*/
+h1{
+    background-color: rgb(100, 192, 196);
+}
+p{
+    color: rgb(209, 46, 78);
+}
+
+/*rgba*/
+h1{
+background-color: rgba(140, 16, 255, 0.822);
+}
+p{
+    color: rgba(218, 165, 32, 0.925);
+}
